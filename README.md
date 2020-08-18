@@ -42,6 +42,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Material Design-757575?style=for-the-badge&logo=material-design&logoColor=fff" alt="Material Design">
 </a>
 
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff" alt="JQuery">
+</a>
+
 ### Gerenciamento de Bibliotecas:
 
 <a href="" target="_blank" rel="noopener noreferrer">
@@ -56,6 +60,22 @@ Here are some ideas to get you started:
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-W3C-005A9C?style=for-the-badge&logo=W3C&logoColor=fff" alt="W3C">
+</a>
+
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-visual studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff" alt="Visual Studio">
+</a>
+
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff" alt="Visual Studio Code">
+</a>
+
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-sublime text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=fff" alt="Sublime Text">
+</a>
+
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=fff" alt="Insomnia">
 </a>
 
 ### Controle de Versionamento: 
