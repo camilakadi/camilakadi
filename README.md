@@ -74,16 +74,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-sublime text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=fff" alt="Sublime Text">
 </a>
 
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=fff" alt="Insomnia">
-</a>
-
 ### Controle de Versionamento: 
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff" alt="Git">
 </a>
 
+### Estou estudando:
 
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=Typescript&logoColor=fff" alt="TypeScript">
+</a>
 
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=fff" alt="Insomnia">
+</a>
 
