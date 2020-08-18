@@ -4,13 +4,13 @@
 Here are some ideas to get you started:
 -->
 
-Linguagens de Programação:
+### Linguagens de Programação:
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff" alt="JavaScript">
 </a>
 
-Linguagens de Marcação:
+### Linguagens de Marcação:
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff" alt="HTML5">
@@ -20,7 +20,7 @@ Linguagens de Marcação:
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff" alt="CSS3">
 </a>
 
-Frameworks:
+### Frameworks:
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-AngularJS-E23237?style=for-the-badge&logo=AngularJS&logoColor=fff" alt="AngularJS">
@@ -42,7 +42,7 @@ Frameworks:
   <img src="https://img.shields.io/badge/-Material Design-757575?style=for-the-badge&logo=material-design&logoColor=fff" alt="Material Design">
 </a>
 
-Gerenciamento de Bibliotecas:
+### Gerenciamento de Bibliotecas:
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=fff" alt="NPM">
@@ -52,13 +52,13 @@ Gerenciamento de Bibliotecas:
   <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=fff" alt="Yarn">
 </a>
 
-Outros:
+### Outros:
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-W3C-005A9C?style=for-the-badge&logo=W3C&logoColor=fff" alt="W3C">
 </a>
 
-Controle de Versionamento: 
+### Controle de Versionamento: 
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff" alt="Git">
