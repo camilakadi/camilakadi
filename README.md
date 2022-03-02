@@ -10,6 +10,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff" alt="JavaScript">
 </a>
 
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=Typescript&logoColor=fff" alt="TypeScript">
+</a>
+
 ### Linguagens de Marcação:
 
 <a href="" target="_blank" rel="noopener noreferrer">
@@ -31,10 +35,6 @@ Here are some ideas to get you started:
 </a>
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=fff" alt="Node.js">
-</a>
-
-<a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=fff" alt="SASS">
 </a>
 
@@ -44,6 +44,22 @@ Here are some ideas to get you started:
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff" alt="JQuery">
+</a>
+
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="Next.js">
+</a>
+
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff" alt="Vue.js">
+</a>
+
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" alt="Bootstrap">
+</a>
+
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Mui-007FFF?style=for-the-badge&logo=mui&logoColor=fff" alt="Mui">
 </a>
 
 ### Gerenciamento de Bibliotecas:
@@ -74,19 +90,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-sublime text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=fff" alt="Sublime Text">
 </a>
 
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=fff" alt="Insomnia">
+</a>
+
 ### Controle de Versionamento: 
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff" alt="Git">
 </a>
 
-### Estou estudando:
-
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=Typescript&logoColor=fff" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Azure DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=fff" alt="Azure DevOps">
 </a>
-
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=fff" alt="Insomnia">
-</a>
-
